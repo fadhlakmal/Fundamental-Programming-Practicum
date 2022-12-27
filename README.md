@@ -1,4 +1,4 @@
 # Fundamental-Programming-Practicum
 Source code for fundamental programming practicum problem sets i solved.
 
-that being said the solved problem sets are not worth the stress
+that being said i am slowly losing it
